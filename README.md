@@ -1,3 +1,3 @@
-## Voltek 🌱
+## Mark 🌱
 
-Hi, I'm Mark, I enjoy writing code to solve real-world problems.
+Hi, I enjoy writing code to solve real-world problems.
